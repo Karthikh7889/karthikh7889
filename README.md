@@ -102,9 +102,6 @@
 <img src="https://komarev.com/ghpvc/?username=karthikh7889&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
-
----
-
 ## 🚀 Currently Building
 
 <div align="center">
