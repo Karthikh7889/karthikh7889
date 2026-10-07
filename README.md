@@ -16,6 +16,13 @@ Welcome to my GitHub profile!
 
 ### 🚀 About Me
 ## 📊 GitHub Stats
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=karthikh7889&theme=tokyonight&hide_border=true" width="70%">
+
+</div>
 
 <div align="center">
 
