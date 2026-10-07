@@ -8,21 +8,40 @@
 
 </div>
 
-# Hi, I'm Karthik 👋
+<h1 align="center">Hi, I'm Karthik 👋</h1>
 
-Welcome to my GitHub profile!
+<p align="center">
+  <b>Computer Science Student • Full Stack Developer • AI/ML Explorer</b>
+</p>
+
+<p align="center">
+  <i>Building projects that solve real-world problems 🚀</i>
+</p>
 
 ---
 
-### 🚀 About Me
-## 📊 GitHub Stats
-## 🔥 Contribution Streak
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Interested in Full Stack Development
+- 🤖 Exploring AI & Machine Learning
+- 🔥 Building real-world projects
+- 🌱 Always learning and experimenting
+- 🧠 Interested in solving practical problems with technology
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=karthikh7889&theme=tokyonight&hide_border=true" width="70%">
+<img src="https://skillicons.dev/icons?i=python,flask,java,js,html,css,mysql,git,github,vscode,linux&perline=6">
 
 </div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -32,23 +51,16 @@ Welcome to my GitHub profile!
 
 </div>
 
-- 🎓 Computer Science Student
-- 💻 Interested in Full Stack Development
-- 🤖 Exploring AI & Machine Learning
-- 🔥 Building real-world projects
-- 🌱 Always learning something new
-
-### 🛠️ Technologies
-
-`Python` `Flask` `JavaScript` `HTML` `CSS` `SQL` `Git`
-
 ---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
-**Thanks for visiting my profile! ⭐**
+<img src="https://streak-stats.demolab.com?user=karthikh7889&theme=tokyonight&hide_border=true" width="70%">
 
 </div>
+
 ---
 
 ## 🐍 Contribution Activity
@@ -60,5 +72,38 @@ Welcome to my GitHub profile!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikh7889/karthikh7889/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/karthikh7889/karthikh7889/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
 </picture>
+
+</div>
+
+---
+
+## 🚀 Currently Building
+
+<div align="center">
+
+💻 Full Stack Web Applications  
+🤖 AI & Machine Learning Projects  
+⚡ Real-World Problem Solving  
+🌐 Modern Web Technologies
+
+</div>
+
+---
+
+## 📈 My Goals
+
+<div align="center">
+
+Learn → Build → Experiment → Solve → Improve 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=karthikh7889&style=flat-square&color=blue" alt="Profile Views">
 
 </div>
