@@ -89,7 +89,21 @@
 </div>
 
 ---
+---
 
+## 💻 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/karthikh7889">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikh7889&repo=CollegePortal&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/karthikh7889">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikh7889&repo=EVTrack&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 ## 📈 My Goals
 
 <div align="center">
